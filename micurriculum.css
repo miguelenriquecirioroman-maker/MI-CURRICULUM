@@ -8,11 +8,12 @@ img{
     display: block;
     margin: 0 auto;
     width: 20%;
-    height: 200px;
+    height: 50px;
 }
 ul{
     text-align: center;
 }
 li{
     align-items: center;
+
 }
