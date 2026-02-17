@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+    height: 200px;
+}
+ul{
+    text-align: center;
+}
+li{
+    align-items: center;
+}
